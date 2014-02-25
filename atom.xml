@@ -4,11 +4,11 @@
   <title><![CDATA[Milannic's Website]]></title>
   <link href="http://milannic.com/atom.xml" rel="self"/>
   <link href="http://milannic.com/"/>
-  <updated>2014-02-24T20:36:36-05:00</updated>
+  <updated>2014-02-24T20:38:45-05:00</updated>
   <id>http://milannic.com/</id>
   <author>
     <name><![CDATA[Milannic Cheng Liu(刘成)]]></name>
-    
+    <email><![CDATA[milannic.cheng.liu@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
