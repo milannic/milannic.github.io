@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://milannic.com/blog/2014/02/24/multi-kernel-learning/</loc>
+        <lastmod>2014-02-24T23:59:51-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://milannic.com/blog/archives/</loc>
-        <lastmod>2014-02-23T13:16:00-05:00</lastmod>
+        <lastmod>2014-02-24T23:59:51-05:00</lastmod>
     </url>
     <url>
         <loc>http://milannic.com/blog/</loc>
-        <lastmod>2014-02-24T20:07:53-05:00</lastmod>
+        <lastmod>2014-02-24T23:59:51-05:00</lastmod>
     </url>
     <url>
         <loc>http://milannic.com/projects/</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://milannic.com/</loc>
-        <lastmod>2014-02-24T20:13:37-05:00</lastmod>
+        <lastmod>2014-02-24T23:59:51-05:00</lastmod>
     </url>
     <url>
         <loc>http://milannic.com/about/</loc>

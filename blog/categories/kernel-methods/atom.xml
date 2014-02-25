@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Milannic's Website]]></title>
-  <link href="http://milannic.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Kernel Methods | Milannic's Website]]></title>
+  <link href="http://milannic.com/blog/categories/kernel-methods/atom.xml" rel="self"/>
   <link href="http://milannic.com/"/>
   <updated>2014-02-25T00:06:26-05:00</updated>
   <id>http://milannic.com/</id>
@@ -22,7 +22,7 @@
 
 <p>The matlab code I am using is from <a href="http://research.microsoft.com/en-us/um/people/manik/code/gmkl/download.html">this</a>
 But I want to say the way the code is written is too strange, I mean that wrapper.
-<img src="http://placekitten.com/890/280"></p>
+<img class="<a" src="href="http://placekitten.com/890/280">http://placekitten.com/890/280</a>"></p>
 ]]></content>
   </entry>
   
